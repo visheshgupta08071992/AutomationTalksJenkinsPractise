@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="JenkinsPractise" duration-ms="29" started-at="2020-04-13T13:21:37Z" finished-at="2020-04-13T13:21:37Z">
+    <groups>
+    </groups>
+    <test name="JenkinsTest" duration-ms="29" started-at="2020-04-13T13:21:37Z" finished-at="2020-04-13T13:21:37Z">
+      <class name="TestClass1">
+        <test-method status="PASS" signature="test1()[pri:0, instance:TestClass1@d041cf]" name="test1" duration-ms="9" started-at="2020-04-13T18:51:37Z" finished-at="2020-04-13T18:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:TestClass1@d041cf]" name="test2" duration-ms="0" started-at="2020-04-13T18:51:37Z" finished-at="2020-04-13T18:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:TestClass1@d041cf]" name="test3" duration-ms="0" started-at="2020-04-13T18:51:37Z" finished-at="2020-04-13T18:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:TestClass1@d041cf]" name="test4" duration-ms="0" started-at="2020-04-13T18:51:37Z" finished-at="2020-04-13T18:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- TestClass1 -->
+    </test> <!-- JenkinsTest -->
+  </suite> <!-- JenkinsPractise -->
+</testng-results>
